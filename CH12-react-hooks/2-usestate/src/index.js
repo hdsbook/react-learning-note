@@ -3,11 +3,10 @@ import PracticeA from './PracticeA';
 import PracticeB from './PracticeB';
 
 
-// ReactDOM.render(
-//   <PracticeA />,
-//   document.getElementById('root')
-// );
 ReactDOM.render(
-  <PracticeB />,
+  [
+    <PracticeA />,
+    <PracticeB />
+  ],
   document.getElementById('root')
 );
