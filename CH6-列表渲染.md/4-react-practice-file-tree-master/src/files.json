@@ -1,0 +1,381 @@
+{
+  "name": "node_modules",
+  "files": [
+    {
+      "name": ".bin",
+      "files": [
+        {
+          "name": "acorn"
+        },
+        {
+          "name": "ansi-html"
+        },
+        {
+          "name": "atob"
+        },
+        {
+          "name": "autoprefixer"
+        },
+        {
+          "name": "babylon"
+        }
+      ]
+    },
+    {
+      "name": "@babel",
+      "files": [
+        {
+          "name": "code-frame",
+          "files": [
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "lib",
+              "files": [
+                {
+                  "name": "index.js"
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        },
+        {
+          "name": "compat-data",
+          "files": [
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "corejs2-built-ins.js"
+            },
+            {
+              "name": "corejs3-shipped-proposals.js"
+            },
+            {
+              "name": "data",
+              "files": [
+                {
+                  "name": "corejs2-built-ins.json"
+                },
+                {
+                  "name": "corejs3-shipped-proposals.json"
+                },
+                {
+                  "name": "native-modules.json"
+                },
+                {
+                  "name": "overlapping-plugins.json"
+                },
+                {
+                  "name": "plugin-bugfixes.json"
+                }
+              ]
+            },
+            {
+              "name": "native-modules.js"
+            }
+          ]
+        },
+        {
+          "name": "core",
+          "files": [
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "lib",
+              "files": [
+                {
+                  "name": "config",
+                  "files": [
+                    {
+                      "name": "caching.js"
+                    },
+                    {
+                      "name": "config-chain.js"
+                    },
+                    {
+                      "name": "config-descriptors.js"
+                    },
+                    {
+                      "name": "files",
+                      "files": [
+                        {
+                          "name": "configuration.js"
+                        },
+                        {
+                          "name": "index-browser.js"
+                        },
+                        {
+                          "name": "index.js"
+                        },
+                        {
+                          "name": "package.js"
+                        },
+                        {
+                          "name": "plugins.js"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "full.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "index.js"
+                },
+                {
+                  "name": "parse.js"
+                },
+                {
+                  "name": "tools",
+                  "files": [
+                    {
+                      "name": "build-external-helpers.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "transform-ast.js"
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        },
+        {
+          "name": "generator",
+          "files": [
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "lib",
+              "files": [
+                {
+                  "name": "buffer.js"
+                },
+                {
+                  "name": "generators",
+                  "files": [
+                    {
+                      "name": "base.js"
+                    },
+                    {
+                      "name": "classes.js"
+                    },
+                    {
+                      "name": "expressions.js"
+                    },
+                    {
+                      "name": "flow.js"
+                    },
+                    {
+                      "name": "index.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "index.js"
+                },
+                {
+                  "name": "node",
+                  "files": [
+                    {
+                      "name": "index.js"
+                    },
+                    {
+                      "name": "parentheses.js"
+                    },
+                    {
+                      "name": "whitespace.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "printer.js"
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        },
+        {
+          "name": "helper-annotate-as-pure",
+          "files": [
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "lib",
+              "files": [
+                {
+                  "name": "index.js"
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@csstools",
+      "files": [
+        {
+          "name": "convert-colors",
+          "files": [
+            {
+              "name": "CHANGELOG.md"
+            },
+            {
+              "name": "LICENSE.md"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "index.bundle.js"
+            },
+            {
+              "name": "index.js"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@mrmlnc",
+      "files": [
+        {
+          "name": "readdir-enhanced",
+          "files": [
+            {
+              "name": "CHANGELOG.md"
+            },
+            {
+              "name": "LICENSE"
+            },
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "lib",
+              "files": [
+                {
+                  "name": "async",
+                  "files": [
+                    {
+                      "name": "for-each.js"
+                    },
+                    {
+                      "name": "index.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "call.js"
+                },
+                {
+                  "name": "directory-reader.js"
+                },
+                {
+                  "name": "index.js"
+                },
+                {
+                  "name": "normalize-options.js"
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@nodelib",
+      "files": [
+        {
+          "name": "fs.stat",
+          "files": [
+            {
+              "name": "README.md"
+            },
+            {
+              "name": "out",
+              "files": [
+                {
+                  "name": "adapters",
+                  "files": [
+                    {
+                      "name": "fs.d.ts"
+                    },
+                    {
+                      "name": "fs.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "index.d.ts"
+                },
+                {
+                  "name": "index.js"
+                },
+                {
+                  "name": "managers",
+                  "files": [
+                    {
+                      "name": "options.d.ts"
+                    },
+                    {
+                      "name": "options.js"
+                    }
+                  ]
+                },
+                {
+                  "name": "providers",
+                  "files": [
+                    {
+                      "name": "stat.d.ts"
+                    },
+                    {
+                      "name": "stat.js"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "package.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
