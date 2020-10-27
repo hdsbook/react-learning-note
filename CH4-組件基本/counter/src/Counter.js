@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 class Counter extends Component {
     constructor(props) {
-        super(props);
+        super(props); // super 表示執行父類別的建構函式
 
         this.state = {
             count: props.initCount,
