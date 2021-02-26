@@ -14,6 +14,8 @@ create-react-app my-app
 
 ## 運行專案
 
+若是執行clone下來的專案，要先執行 `npm install`，將 node_modules 安裝進來
+
 ```shell
 npm start
 ```
