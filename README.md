@@ -2,7 +2,7 @@
 
 欲運行各章節的範例程式碼：
 
-1. 先參考 [CH0/安裝NodeJS, NVM](./CH0/安裝NodeJS,%20NVM.md)
+1. 參考 [CH0/安裝NodeJS, NVM](./CH0/安裝NodeJS,%20NVM.md)
    - 安裝NodeJS(npm)
 
 2. 參考 [CH2/Create React App](CH2/Create%20React%20App.md)
@@ -15,3 +15,7 @@ cd CH2/my-app/
 npm install
 npm start
 ```
+
+4. 開啟瀏覽器 http://localhost:3000/ ，就會看到運行的範例(它應該會自動開啟)
+
+5. ctrl C 停止運行
